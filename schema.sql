@@ -2,9 +2,8 @@
 
 CREATE TABLE animals (
     id SERIAL NOT NULL PRIMARY KEY,
-    name VARCHAR(100),
+    name VARCHAR(100) NOT NULL,
     date_of_birth DATE,
-    escape_attempts INT,
-    neutered BOOLEAN,
-    weight_kg INT
-);
+    escape_attempts INT NOT NULL,
+    neutered BOOLEAN NOT NULL,
+    weight_kg INT NOT NULL );
