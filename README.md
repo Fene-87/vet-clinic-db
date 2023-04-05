@@ -57,9 +57,11 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo"></a>
+## 🚀 Database Diagram <a name="live-demo"></a>
 
-- [Not Available]
+- [Diagram Link](https://drawsql.app/teams/raph-1/diagrams/vet-clinic/embed)
+
+![vet-clinic](https://user-images.githubusercontent.com/110599399/229852076-e80ca62c-3cac-4f56-869b-933166e3b7d5.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
